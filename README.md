@@ -17,7 +17,8 @@ Toward the end of the course, we spent time learning about data organization, th
  <img width="752" alt="Image" src="https://github.com/user-attachments/assets/fb93a96d-eede-456d-8cc1-b11a20e36b07" /><br>
 <b>In this project I researched a study on how data and information overload impacts the decision-making process of managers.  </b><br>
  <b>L08: Activity 2: OSINT</b><br>
-	<b>In this project, I delved into the concept of Open Source Intelligence (OSINT) and explored its techniques, and created a presentation that showcased my understanding. </b><br>	
+[OSINT.pptx](https://github.com/user-attachments/files/19828573/OSINT.pptx) <br>	
+ <b>In this project, I delved into the concept of Open Source Intelligence (OSINT) and explored its techniques, and created a presentation that showcased my understanding. </b><br>	
  <b>L09: Infographic on a Security Concept </b>
  <b>In this project, I design a infographic that visually explains a security concept of malware.</b><br>
 
