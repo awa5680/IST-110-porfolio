@@ -14,6 +14,7 @@ Toward the end of the course, we spent time learning about data organization, th
 
 <h3>Assignments and projects</h3>
 	<b>L01: Virtual Information Treasure Hunt</b><br>
+ <img width="752" alt="Image" src="https://github.com/user-attachments/assets/fb93a96d-eede-456d-8cc1-b11a20e36b07" /><br>
 <b>In this project I researched a study on how data and information overload impacts the decision-making process of managers.  </b><br>
  <b>L08: Activity 2: OSINT</b><br>
 	<b>In this project, I delved into the concept of Open Source Intelligence (OSINT) and explored its techniques, and created a presentation that showcased my understanding. </b><br>	
