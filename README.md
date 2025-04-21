@@ -20,7 +20,7 @@ Toward the end of the course, we spent time learning about data organization, th
 [OSINT.pptx](https://github.com/user-attachments/files/19828573/OSINT.pptx) <br>	
  <b>In this project, I delved into the concept of Open Source Intelligence (OSINT) and explored its techniques, and created a presentation that showcased my understanding. </b><br>	
  <b>L09: Infographic on a Security Concept </b><br>
- <br>
+ <img width="307" alt="Image" src="https://github.com/user-attachments/assets/13401c6c-9066-42fe-9543-fefc982f8902" /><br>
  <b>In this project, I design a infographic that visually explains a security concept of malware.</b><br>
 
 
