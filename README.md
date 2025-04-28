@@ -13,9 +13,54 @@ Toward the end of the course, we spent time learning about data organization, th
 </b>
 
 <h3>Assignments and projects</h3>
-	<b>L01: Virtual Information Treasure Hunt</b><br>
+
+<h4>lesson 1: intro to IST</h4>	
+ <b>Introductory Material Reading Check </b><br>
+ <b><img width="1440" alt="Image" src="https://github.com/user-attachments/assets/1957d567-cba4-42a3-ad2c-d09fdc1f0a7f" /></b><br>
+ <b>In this assignment I read through chapter one of zybook while also completing participation assignments. The first chapter talked about what info systems degrees focused on and what tech they used to develop, manage and disseminate info to help organizations reach success.</b><br>
+ 
+<b>Discussion Post</b><br>
+<b>In this post were given the prompt to introduce yourself and explain waht interests us the most in IT.</b><br>
+
+ 
+ <b>L01: Virtual Information Treasure Hunt</b><br>
  <img width="752" alt="Image" src="https://github.com/user-attachments/assets/fb93a96d-eede-456d-8cc1-b11a20e36b07" /><br>
 <b>In this project I researched a study on how data and information overload impacts the decision-making process of managers.  </b><br>
+<b>Quiz</b><br>
+<b> In this assignment we were tasked with taking a 15 question quiz on what we learned from the reading </b><br>
+
+<b>L02: History and Basics</b><br>
+<b> History and Basics reading check</b><br>
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/05eed84e-0b93-4c13-a85c-86fd984dc2ab" />
+<b>In chapter two we learned the brief history of computers, how they orginated, how they function and how they become to be computers today.</b><br>
+
+<b>Discussion- Binary Statement</b><br>
+<b> In this assignment I was tasked with translating binary sequences into their corresponding text characters using an ASCII table.</b><br>
+
+<b>Quiz: History and Basics</b><br>
+<b>After the readings we took a 15 question quiz to  challenge owwer understanding, covering the history and basics of computers</b><br>
+
+<b>Lesson 03: Computing Concepts</b><br>
+
+<b>Computing Concepts Reading Check</b><br>
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/73f53258-164e-4297-a535-cad9de15d713" />
+<b>Reading chapter 3, it covers the all the types of computer concepts. From artifacts, problem solving, collaborations to abstract computing and also large data sets.</b>
+
+<b>Discussion Data Analytics</b><br>
+<b>In this discussion, we were prompted to conversate about reflecting on the data analytics terms of descriptive, predictive, and prescriptive. Then to identify any specific concepts or aspects that we found particularly confusing or unclear.</b><br>
+
+<b>Creating an Infographic Decescribing The Computational Problem-Solving Concepts</b><br>
+<img width="362" alt="Image" src="https://github.com/user-attachments/assets/9d239d2c-3d35-4eb7-b245-f37e8552cffb" />
+<b>In </b><br>
+
+
+
+
+
+
+
+
+
  <b>L08: Activity 2: OSINT</b><br>
 [OSINT.pptx](https://github.com/user-attachments/files/19828573/OSINT.pptx) <br>	
  <b>In this project, I delved into the concept of Open Source Intelligence (OSINT) and explored its techniques, and created a presentation that showcased my understanding. </b><br>	
