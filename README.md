@@ -144,7 +144,6 @@ List all of the cities in the Customers table. Now revise your SQL to remove dup
 <b>After the reading we were quizzed with 15 questions about applications.</b><br>
 
 <b>Lesson 09: Security</b><br> 
-<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/300bf242-b58b-4524-ae8e-a24c4efa4a74" /><br>
 <b>Chapter 10 covers, all of security basics including viruses, malware, antivirus, firewalls and also cryptography.</b><br>
 
  <b>L09: Infographic on a Security Concept </b><br>
@@ -177,7 +176,7 @@ List all of the cities in the Customers table. Now revise your SQL to remove dup
 
 <b>Lesson 11: Privacy</b><br>
 <b>Privacy Reading</b><br>
-
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/300bf242-b58b-4524-ae8e-a24c4efa4a74" /><br>
 <b>chapter 11 covers information about privacy from PII and other topics.</b><br>
 <b>Discussion: Database Technology and Privacy Issues</b><br>
 <b>In this discussion post, we talked about how we think the tension between privacy and database technology will play out in the world.</b><br>
