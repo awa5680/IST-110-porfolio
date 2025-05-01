@@ -144,11 +144,11 @@ List all of the cities in the Customers table. Now revise your SQL to remove dup
 <b>After the reading we were quizzed with 15 questions about applications.</b><br>
 
 <b>Lesson 09: Security</b><br> 
-<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/1fb1b27c-7867-4ada-b11d-7108dc972237" /><br>
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/300bf242-b58b-4524-ae8e-a24c4efa4a74" /><br>
 <b>Chapter 10 covers, all of security basics including viruses, malware, antivirus, firewalls and also cryptography.</b><br>
 
  <b>L09: Infographic on a Security Concept </b><br>
- <img width="307" alt="Image" src="https://github.com/user-attachments/assets/13401c6c-9066-42fe-9543-fefc982f8902" /><br>
+ <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/f39cd1d5-31c8-4d8d-8406-4e5ef50d3e32" /><br>
  <b>In this project, I design a infographic that visually explains a security concept of malware.</b><br>
 
  <b>Quiz: Security</b><br>
