@@ -14,7 +14,7 @@ Toward the end of the course, we spent time learning about data organization, th
 
 <h3>Assignments and projects</h3>
 
-<h4>lesson 1: intro to IST</h4>	
+<h4>lesson 1: Intro to IST</h4>	
  <b>Introductory Material Reading Check </b><br>
  <b><img width="1440" alt="Image" src="https://github.com/user-attachments/assets/1957d567-cba4-42a3-ad2c-d09fdc1f0a7f" /></b><br>
  <b>In this assignment I read through chapter one of zybook while also completing participation assignments. The first chapter talked about what info systems degrees focused on and what tech they used to develop, manage and disseminate info to help organizations reach success.</b><br>
@@ -28,7 +28,7 @@ Toward the end of the course, we spent time learning about data organization, th
 <b>In this project I researched a study on how data and information overload impacts the decision-making process of managers.  </b><br>
 
 <b>Quiz</b><br>
-<b> In this assignment we were tasked with taking a 15 question quiz on what we learned from the reading </b><br>
+<b> In this assignment we were tasked with taking a 15 question quiz on what we learned from the reading. </b><br>
 
 <b>L02: History and Basics</b><br>
 <b> History and Basics reading check</b><br>
@@ -39,7 +39,7 @@ Toward the end of the course, we spent time learning about data organization, th
 <b> In this assignment I was tasked with translating binary sequences into their corresponding text characters using an ASCII table.</b><br>
 
 <b>Quiz: History and Basics</b><br>
-<b>After the readings we took a 15 question quiz covering the history and basics of computers</b><br>
+<b>After the readings we took a 15 question quiz covering the history and basics of computers.</b><br>
 
 <b>Lesson 03: Computing Concepts</b><br>
 
@@ -59,21 +59,20 @@ Toward the end of the course, we spent time learning about data organization, th
 
 <b>Lesson 04: Hardware</b><br>
 <b>Hardware Reading Check</b><br>
-<b>Reading chapter 4, it covers </b><br>
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/9541c6c8-ad96-4725-b4c5-ddf102568043" /><br>
 <b>Chapter 4, covers all the basics of hardware including cache, memory, drive, types of comuter and also BIOS devices.</b><br>
 
 <b>Discussion: hardware</b><br>
 <b>In this discussion, we were tasked with identifying and briefly explaining the essential components of a computer hardware setup.</b><br>
-<b>Hardware Dissection Lab</b><br>
-
+<b>Hardware Dissection Lab.</b><br>
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/6a99411f-634f-4692-943e-65bad6792d68" /><br>
 <b>In this lab we were tasked with choosing two devices to virtually dissect, I choose to teardown a ps3 and a Dell XPS 13.</b><br>
 
 <b>Quiz: hardware</b><br>
-<b>After the reading we took a 15 question quiz.</b><br>
+<b>After the reading we took a 15 question quiz on hardware.</b><br>
 
 <b>Lesson 05: Operating Systems</b><br>
+
 <b>Operating Systems Reading</b><br>
 <img width="1431" alt="Image" src="https://github.com/user-attachments/assets/e2d35a0b-d87c-4de4-9642-8da5c63ea439" /><br>
 <b> Chapter 5 covers the basics of OS, common operating system, their stories and what makes a OS good for a user.</b><br>
@@ -94,14 +93,14 @@ Toward the end of the course, we spent time learning about data organization, th
 <b>Chapter 6 covers machine, assembly, high level languages. It also goes over a brief intro to python.</b><br>
 
 <b>Discussion: Programming Languages</b><br>
-<b>In this discussion post, we were prompted with comparing and contrasting the fundamental characteristics of machine assembley and high level programming languages. </b><br>
+<b>In this discussion post, we were prompted with comparing and contrasting the fundamental characteristics of machine assembley and high level programming languages.</b><br>
 
 <b>Python Programming</b><br>
 <img width="587" alt="Image" src="https://github.com/user-attachments/assets/5ec4ce34-7fda-42d0-8437-f98c267f7ac4" /><br>
 <b>In this assignment we were tasked with  printing out "print a warning ouput", "a name for the cat!", "rate of green glow spread" using python code. </b><br>
 
 <b>Quiz: Programming Languages</b><br>
-<b> After the reading we were quizzed with 15 questions about programming languages</b><br>
+<b> After the reading we were quizzed with 15 questions about programming languages.</b><br>
 
 <b>Lesson 07: Data organization</b><br>
 
@@ -138,8 +137,9 @@ List all of the cities in the Customers table. Now revise your SQL to remove dup
 <b>Chapter 8 covers the basics of emails, text messages, blogs, wikipedia, audio player apps, video player apps and streaming services. </b><br>
  <b>OSINT</b><br>
  
-[OSINT.pptx](https://github.com/user-attachments/files/19828573/OSINT.pptx) <br>	
- <b>In this project, I delved into the concept of Open Source Intelligence (OSINT) and explored its techniques, and created a presentation that showcased my understanding. </b><br>	
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/377852be-e565-46d6-a2ec-9d6de5095a61" /><br>	
+<b>In this project, I delved into the concept of Open Source Intelligence (OSINT) and explored its techniques, and created a presentation that showcased my understanding. </b><br>	
+
 <b>Quiz:Applicatio</b><br>
 <b>After the reading we were quizzed with 15 questions about applications.</b><br>
 
@@ -152,7 +152,7 @@ List all of the cities in the Customers table. Now revise your SQL to remove dup
  <b>In this project, I design a infographic that visually explains a security concept of malware.</b><br>
 
  <b>Quiz: Security</b><br>
- <b>after the reading we were quizzed with 15 questions about security.</b><br>
+ <b>After the reading we were quizzed with 15 questions about security.</b><br>
 
 
 <b>Lesson 10: The Internet and Web</b><br>
@@ -172,8 +172,7 @@ List all of the cities in the Customers table. Now revise your SQL to remove dup
 <b>In this assignment we were to use the website "w3schools.com" and use javascript code to print out Hello and what time is it.</b><br>
 
 <b>Quiz: The Internet and Web</b><br>
-<b>after the reading we were quizzed with 15 questions about internet and the web.
-</b><br>
+<b>After the reading we were quizzed with 15 questions about internet and the web.</b><br>
 
 
 <b>Lesson 11: Privacy</b><br>
@@ -184,7 +183,8 @@ List all of the cities in the Customers table. Now revise your SQL to remove dup
 <b>In this discussion post, we talked about how we think the tension between privacy and database technology will play out in the world.</b><br>
 
 <b>What Do companies Know About You?</b><br>
-<b>In this assignment we were given the prompt to google our self to find public info, then to answer the questions What kinds of information about yourself are you giving away when you use apps like Facebook, Instagram, Twitter, and Snapchat and What information did you find in the Personal Information and Privacy section on Google</b><br>
+<img width="582" alt="Image" src="https://github.com/user-attachments/assets/661b40e7-1111-4e86-8df3-319654eabe4f" />
+<b>In this assignment we were given the prompt to google our self to find public info, then to answer the questions What kinds of information about yourself are you giving away when you use apps like Facebook, Instagram, Twitter, and Snapchat and What information did you find in the Personal Information and Privacy section on Google.</b><br>
 
 <b>Quiz: Privacy</b><br>
 <b>after the reading we were quizzed with 15 questions about internet and the web.</b><br>
